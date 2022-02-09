@@ -4,7 +4,7 @@
 #include <regex>
 #include <vector>
 #include <iostream>
-#include "a4-vertexcover.hpp"
+#include "vertex4.hpp"
 
 std::vector< std::pair<int,int> > parse(std::string s) {
     std::pair<int, int> edge;
