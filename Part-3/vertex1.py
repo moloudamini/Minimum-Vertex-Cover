@@ -5,6 +5,7 @@ import cmd
 import re
 import math
 
+
 class Vertex_Cover_Class(cmd.Cmd):
     prompt = ''
     use_rawinput = 0
