@@ -4,6 +4,7 @@ import shlex
 import sys
 
 
+
 class Vertex_Cover_Class(object):
     """ in this class we call graph generator class and its related functions for add, mod, rm and gg"""
     def __init__(self):
