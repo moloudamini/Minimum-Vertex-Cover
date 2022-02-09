@@ -7,6 +7,7 @@
 #include <minisat/core/SolverTypes.h>
 #include <minisat/core/Solver.h>
 
+
 // Constructor
 VertexCover::VertexCover( int v ):
     vertices(v+1) {/*empty constructor*/}
