@@ -3,7 +3,7 @@
 #include <climits>
 #include <algorithm>
 #include <chrono>
-#include "a4-vertexcover.hpp"
+#include "cover4.hpp"
 #include <minisat/core/SolverTypes.h>
 #include <minisat/core/Solver.h>
 
