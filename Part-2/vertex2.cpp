@@ -4,9 +4,9 @@
 #include <climits>
 #include <vector>
 #include <regex>
-
 #include "vertex2.hpp"
 using namespace std;
+
 
 //Constructor
 Graph_Class::Graph_Class(int vertex): vertices(vertex+1), v_dist(vertex+1), v_pred(vertex+1), 
