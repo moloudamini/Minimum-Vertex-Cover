@@ -6,6 +6,7 @@
 using namespace std;
 
 
+
 // we have considered 3 process A, B, and C for this program
 int a3_loop_fun(void) {
     // Process C reading from both A and B
