@@ -13,6 +13,7 @@
 #include "graph.h"
 
 
+
 static void *(* algorithm[])(void *) = {CNF_SAT_VC, APPROX_VC_1,APPROX_VC_2}; 
 static const char *titles[] = {"CNF-SAT-VC: ", "APPROX-VC-1: ", "APPROX-VC-2: "};
 
